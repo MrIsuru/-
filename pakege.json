@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/kushansewmina1234/DARK-SHAN-MD.git"
   },
-  "author": "DGXeon",
+  "author": "kushansewmina1234",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
